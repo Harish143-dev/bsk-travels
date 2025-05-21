@@ -1,0 +1,36 @@
+.pack-img{
+    height: 200px;
+    width: 250px;
+    border-radius: 8px;
+    margin-bottom: 5px;
+}
+.package-discript{
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(92, 92, 92);
+}
+.package-name{
+    color: #0044ff;
+}
+.package-head{
+    color: #6b6b6b;
+}
+.pack-btn-enq{
+    background-color: red;
+    color: white;
+    transition: all 0.3s ease;
+}
+.pack-btn-enq:hover{
+    background-color: #0044ff !important;
+}
+@media (max-width : 1140px){
+    .packages-card-container-2{
+        display: block !important;
+    }
+}
+
+@media (max-width : 767px){
+    .packages-card-container{
+        display: block !important;
+    }
+}

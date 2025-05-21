@@ -1,0 +1,22 @@
+
+.about-headig{
+    color: gray;
+}
+.about-para{
+    color: rgb(77, 77, 77);
+    font-size: 15px;
+}
+@media (max-width : 767px) {
+    .about-us-container{
+        flex-direction: column-reverse;
+    }
+    .left-container{
+        width: 100% !important;
+    }
+     .right-container{
+        width: 100% !important;
+    }
+    .about-para{
+        font-size: 14px;
+    }
+}

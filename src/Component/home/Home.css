@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Iceberg&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap');
+.Home-container{
+    position: relative;
+}
+.bsk-heading{
+    font-size:6rem;
+    font-weight: 700; 
+    font-family: "Iceberg", sans-serif;
+    color: red;
+}
+.bsk-heading-travels{
+    font-weight: 600;
+    font-family: "Cinzel", serif;
+    color: #0044ff;
+}
+.discript{
+    color: gray;
+}
+.home-img{
+    height: 350px;
+    width: 150px;
+    border-radius: 12px;
+}
+.btn-home{
+    color: white;
+    background-color: #0044ff;
+    transition: all 0.3s ease;
+    border: none;
+    padding: 5px 10px;
+}
+.btn-home:hover{
+    color: red;
+    background-color:white;
+    border: red solid 1px;
+    padding: 7px 12px;
+
+}
+
+.form-head{
+    color: #0044ff;
+}
+.enq-container{
+    top: 120px;
+    left: 350px;
+    position: absolute;
+    position: fixed;
+}
+.label-home{
+    color: rgb(75, 75, 75);
+}
+.close-btn{
+    position: absolute;
+    right: 0;
+}
+.text-area{
+    height:120px;
+    width: 250px;
+}
+.btn-enq-sub{
+    background-color:#0044ff;
+    color:white;
+}
+@media (max-width: 767px) {
+    .Home-container{
+        display: block !important;
+    }
+    .home-right-content{
+        width: 100% !important;
+    }
+    .home-left-content{
+        width: 100% !important;
+    }
+  }
+  

@@ -1,0 +1,90 @@
+.contact-heading {
+    color: rgb(85, 85, 85);
+}
+
+.form-con {
+    position: relative;
+}
+
+.inp-field-contact {
+    font-size: 14px;
+    width: 250px;
+    height: 35px;
+}
+
+.label-contact {
+    position: absolute;
+    bottom: 25px;
+    left: 5px;
+    background-color: white;
+    font-size: 14px;
+    padding-inline: 5px;
+    color: rgb(85, 85, 85);
+  
+}
+
+.message-contact {
+    position: absolute;
+    bottom: 25px;
+    left: 10px;
+    background-color: white;
+    font-size: 14px;
+    z-index: 1;
+    bottom: 140px;
+    padding-inline: 5px;
+    color: rgb(85, 85, 85);
+}
+
+textarea {
+    position: relative;
+    width: 250px;
+    height: 150px;
+    padding-top: 10px;
+    font-size: 14px;
+
+}
+
+.contact-btn {
+    color: white;
+    background-color: red;
+}
+
+.location-icon {
+    color: #0044ff;
+}
+
+.contact-info {
+    font-size: 14px;
+    font-weight: 600;
+}
+.insta-icon {
+    cursor: pointer;
+    color: #C13584;
+}
+
+.facebook-icon {
+    cursor: pointer;
+    color: #0044ff;
+}
+
+.twitter-icon {
+    cursor: pointer;
+    color: black;
+}
+
+.youtube-icon {
+    cursor: pointer;
+    color: red;
+}
+
+@media (max-width : 767px) {
+    .contact-container {
+        flex-direction: column;
+        gap: 50px;
+    }
+}
+@media (max-width : 367px) {
+    .contact-add-col{
+        flex-direction: column;
+    }
+}

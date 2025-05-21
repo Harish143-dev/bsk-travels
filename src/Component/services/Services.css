@@ -1,0 +1,54 @@
+.service-img {
+    width: 100%;
+    height: 300px;
+    border-radius: 12px;
+}
+
+.service-name {
+    color: red;
+}
+.services-head{
+    color: #6b6b6b;
+}
+.service-disc {
+    color: gray;
+    font-weight: 600;
+}
+
+.serv-btn-enq {
+    background-color: #0044ff;
+    color: white;
+    transition: all 0.3s ease;
+}
+
+.service-card {
+    transition: all 0.3s ease;
+    border-radius: 12px;
+    padding: 20px;
+    cursor: pointer;
+}
+
+.service-card:hover {
+    box-shadow: 0px 0px 10px 1px gray;
+    transform: scale(1.01);
+ 
+}
+
+.serv-btn-enq:hover {
+    background-color: red;
+}
+
+@media (max-width : 767px) {
+    .services-card-container {
+        display: block !important;
+    }
+}
+
+/* .ser-img-con{
+    background-image: url('../../asset/eicher-home.JPG');
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+} */

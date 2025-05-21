@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Iceberg&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap');
+.bsk-heading{
+    font-family: "Iceberg", sans-serif;
+}
+.bsk-travels{
+    font-family: "Cinzel", serif;
+    font-weight: 700;
+}
+.nav-container{
+    z-index: 1;
+}
+.left-navbar{
+    display: flex;
+    align-items:center;
+    font-size: 1.2rem;
+    gap: 2px;
+}
+
+.btn-link{
+    color:red;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+.btn-link:hover{
+    color:#0044ff;
+}
+.nav-item{
+    color: #555555;
+    font-weight: 600;
+}
+.nav-item:hover{
+    color:#0044ff;
+}
+.nav-item::before{
+    position: absolute;
+    content: "";
+    height: 2px;
+    width: 0%;
+    background-color: #555555;
+    bottom: 0px;
+    transition: all 0.2s ease;
+}
+.nav-item:hover::before{
+    width: 100%;
+    background-color: #0037ce;
+}
+.nav-item-condition{
+    color: red;
+    transition: all 0.2s ease;
+}
+.nav-item-condition::before{
+    content: "";
+    height: 2px;
+    width: 100%;
+    background-color: red;
+    position: absolute;
+
+}
+.mob-nav-item{
+    color:#555555;
+    font-weight: 600;
+}
+.mob-nav-item:hover{
+    color: #0044ff;
+}
+.mob-nav-condition{
+    color: red;
+}
+.mobile-list{
+    transition:all 0.2s ease;
+}
+
+@media (max-width: 767px) {
+    .center-navbar{
+        display: none !important;
+    }
+    .right-navbar{
+        display: none !important;
+    }
+  }
+  
+  @media (min-width: 768px) {
+        .mobile-list{
+            display: none;
+        }
+        .menu-btn{
+            display: none;
+        }
+  }

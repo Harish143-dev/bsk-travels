@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Iceberg&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap');
+
+.footer-container {
+    background-color: #313131;
+    color: rgb(128, 128, 128);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.insta-icon {
+    cursor: pointer;
+    color: #C13584;
+}
+
+.facebook-icon {
+    cursor: pointer;
+    color: #0044ff;
+}
+
+.twitter-footer-icon {
+    cursor: pointer;
+    color: white;
+}
+
+.youtube-icon {
+    cursor: pointer;
+    color: red;
+}
+
+.location-icon {
+    color: #0044ff;
+}
+
+.footer-heading {
+    color: red;
+    font-family: "Iceberg", sans-serif;
+}
+
+.footer-travels {
+    font-family: "Cinzel", serif;
+    font-weight: 700;
+}
+
+@media (max-width : 1030px){
+    .footer-column-res{
+        flex-direction: column;
+    }
+
+} 
+@media (max-width : 600px){
+    .footer-container{
+        flex-direction: column;
+        gap: 20px;
+    }
+
+} 
