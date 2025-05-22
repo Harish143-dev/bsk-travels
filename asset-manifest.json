@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bsk-travels/static/css/main.ea8f4454.css",
-    "main.js": "/bsk-travels/static/js/main.568a55f1.js",
+    "main.js": "/bsk-travels/static/js/main.ea8438b8.js",
     "static/js/453.fd80e34d.chunk.js": "/bsk-travels/static/js/453.fd80e34d.chunk.js",
     "static/media/eicher-home.JPG": "/bsk-travels/static/media/eicher-home.706fe73bcfdf9af18fe1.JPG",
     "static/media/eicher2-home.JPG": "/bsk-travels/static/media/eicher2-home.6c8788b31c6ee0a6aab8.JPG",
@@ -14,11 +14,11 @@
     "static/media/kodaikanal.jpg": "/bsk-travels/static/media/kodaikanal.9a3fe20a81f5b5bc5892.jpg",
     "index.html": "/bsk-travels/index.html",
     "main.ea8f4454.css.map": "/bsk-travels/static/css/main.ea8f4454.css.map",
-    "main.568a55f1.js.map": "/bsk-travels/static/js/main.568a55f1.js.map",
+    "main.ea8438b8.js.map": "/bsk-travels/static/js/main.ea8438b8.js.map",
     "453.fd80e34d.chunk.js.map": "/bsk-travels/static/js/453.fd80e34d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea8f4454.css",
-    "static/js/main.568a55f1.js"
+    "static/js/main.ea8438b8.js"
   ]
 }
