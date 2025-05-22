@@ -48,7 +48,7 @@ const Navbar = () => {
                 {/* Nav bar right */}
                 <div className='right-navbar d-flex gap-2 align-items-center'>
                     <button className='btn-navbaar border-0 bg-body pe-2'>
-                        <a href='/login' className='btn-link'>Login</a>
+                        <a href='/bsk-travels/login' className='btn-link'>Login</a>
                     </button>
                 </div>
             </div>
