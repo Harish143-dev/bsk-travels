@@ -7,8 +7,8 @@ function App() {
   return (
     <div>
       <Routes>
-        <Route path='/bsk-travels' element={<Bsk />} />
-        <Route path='/login' element={<Login />} />
+        <Route path='/' element={<Bsk />} />
+        <Route path='/bsk-travels/login' element={<Login />} />
       </Routes>
     </div>
   )
