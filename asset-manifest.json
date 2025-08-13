@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/bsk-travels/static/css/main.ea8f4454.css",
-    "main.js": "/bsk-travels/static/js/main.ea8438b8.js",
-    "static/js/453.fd80e34d.chunk.js": "/bsk-travels/static/js/453.fd80e34d.chunk.js",
-    "static/media/eicher-home.JPG": "/bsk-travels/static/media/eicher-home.706fe73bcfdf9af18fe1.JPG",
-    "static/media/eicher2-home.JPG": "/bsk-travels/static/media/eicher2-home.6c8788b31c6ee0a6aab8.JPG",
-    "static/media/pamban.jpg": "/bsk-travels/static/media/pamban.c74646e571e927dd2a64.jpg",
-    "static/media/mahindra-home.JPG": "/bsk-travels/static/media/mahindra-home.b89107d7e1e96270b2ee.JPG",
-    "static/media/Madurai.jpg": "/bsk-travels/static/media/Madurai.ccfe2d652fd14694611d.jpg",
-    "static/media/pondichery.jpg": "/bsk-travels/static/media/pondichery.8db997a80773a019fadb.jpg",
-    "static/media/ooty.jpeg": "/bsk-travels/static/media/ooty.275ca46c053234d25bfc.jpeg",
-    "static/media/cruzioabout.JPG": "/bsk-travels/static/media/cruzioabout.06761e66d7431f15e1f5.JPG",
-    "static/media/kodaikanal.jpg": "/bsk-travels/static/media/kodaikanal.9a3fe20a81f5b5bc5892.jpg",
-    "index.html": "/bsk-travels/index.html",
-    "main.ea8f4454.css.map": "/bsk-travels/static/css/main.ea8f4454.css.map",
-    "main.ea8438b8.js.map": "/bsk-travels/static/js/main.ea8438b8.js.map",
-    "453.fd80e34d.chunk.js.map": "/bsk-travels/static/js/453.fd80e34d.chunk.js.map"
+    "main.css": "./static/css/main.ea8f4454.css",
+    "main.js": "./static/js/main.9161c1bd.js",
+    "static/js/453.fd80e34d.chunk.js": "./static/js/453.fd80e34d.chunk.js",
+    "static/media/eicher-home.JPG": "./static/media/eicher-home.706fe73bcfdf9af18fe1.JPG",
+    "static/media/eicher2-home.JPG": "./static/media/eicher2-home.6c8788b31c6ee0a6aab8.JPG",
+    "static/media/pamban.jpg": "./static/media/pamban.c74646e571e927dd2a64.jpg",
+    "static/media/mahindra-home.JPG": "./static/media/mahindra-home.b89107d7e1e96270b2ee.JPG",
+    "static/media/Madurai.jpg": "./static/media/Madurai.ccfe2d652fd14694611d.jpg",
+    "static/media/pondichery.jpg": "./static/media/pondichery.8db997a80773a019fadb.jpg",
+    "static/media/ooty.jpeg": "./static/media/ooty.275ca46c053234d25bfc.jpeg",
+    "static/media/cruzioabout.JPG": "./static/media/cruzioabout.06761e66d7431f15e1f5.JPG",
+    "static/media/kodaikanal.jpg": "./static/media/kodaikanal.9a3fe20a81f5b5bc5892.jpg",
+    "index.html": "./index.html",
+    "main.ea8f4454.css.map": "./static/css/main.ea8f4454.css.map",
+    "main.9161c1bd.js.map": "./static/js/main.9161c1bd.js.map",
+    "453.fd80e34d.chunk.js.map": "./static/js/453.fd80e34d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea8f4454.css",
-    "static/js/main.ea8438b8.js"
+    "static/js/main.9161c1bd.js"
   ]
 }
