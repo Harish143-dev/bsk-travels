@@ -1,6 +1,6 @@
 {
   "name": "bsk-travels",
-  "homepage": "https://harish143-dev.github.io/bsk-travels",
+  "homepage": "https://bsk-travels.netlify.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
